@@ -1,0 +1,3 @@
+# Objective
+
+The objective of this project is to design and develop an IoT-based Aeroponics System that enables efficient and sustainable plant cultivation without the use of soil. The system automates nutrient mist delivery to plant roots, monitors environmental conditions, and reduces water consumption through smart irrigation techniques. By integrating sensors, a microcontroller, and automation, the project aims to improve plant growth, minimize manual intervention, and promote modern precision agriculture. This solution demonstrates the application of embedded systems and IoT technologies in creating a cost-effective and environmentally friendly farming system.
